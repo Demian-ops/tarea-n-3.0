@@ -1,0 +1,28 @@
+/*
+color primario: Red
+color secundario: Blue
+color terceario: Orange
+color cuaternaria: Blueviolet
+*/
+h1 {
+    font-size: 60px;
+  }
+
+  p.oblique {
+    font-style: oblique;
+  }
+p {
+    font-size: 40px;
+}
+
+.goku{
+    color: hsl(251, 100%, 50%)
+}
+
+.majin-bu{
+    color:hotpink
+}
+
+p.form {
+    font-style:italic;
+}
